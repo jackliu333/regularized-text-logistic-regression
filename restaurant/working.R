@@ -1,5 +1,5 @@
 # Use tf-idf representation with review length
-source("helper - V1.R")
+source("helper.R")
 Sys.setlocale("LC_ALL", "English")
 
 # Loop through all combinations of statistical representation and threholds
